@@ -12,9 +12,9 @@ JavaScript
 CSS
 Vite
 Getting Started
-First, install the dependencies:
+Install the dependencies:
 npm install
-Then run the development server:
+Run the development server:
 npm run dev
 Author
 Fatemeh Khandan
